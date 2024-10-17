@@ -1,0 +1,243 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "description": " Segmentation",
+    "file_ending": ".nii.gz",
+    "labels": {
+        "Celiac_Artery": 11,
+        "Left_Common_Carotid": 4,
+        "Left_Internal_lliac_Artery": 21,
+        "Left_Renal_Artery": 16,
+        "Left_Subclavian_Artery": 6,
+        "Right_Internal_lliac_Artery": 20,
+        "Right_Renal_Artery": 15,
+        "SMA": 13,
+        "Zone_0": 1,
+        "Zone_1": 3,
+        "Zone_10_L": 19,
+        "Zone_10_R": 18,
+        "Zone_11_L": 23,
+        "Zone_11_R": 22,
+        "Zone_2": 5,
+        "Zone_3": 7,
+        "Zone_4": 8,
+        "Zone_5": 9,
+        "Zone_6": 10,
+        "Zone_7": 12,
+        "Zone_8": 14,
+        "Zone_9": 17,
+        "background": 0,
+        "innominate": 2
+    },
+    "licence": "see challenge website",
+    "name": "CTA",
+    "numTest": 0,
+    "numTraining": 50,
+    "reference": "see challenge website",
+    "release": "0.0",
+    "tensorImageSize": "3D",
+    "test": [],
+    "training": [
+        {
+            "image": "./imagesTr/CTA_001_000.nii.gz",
+            "label": "./labelsTr/CTA_001_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_002_000.nii.gz",
+            "label": "./labelsTr/CTA_002_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_003_000.nii.gz",
+            "label": "./labelsTr/CTA_003_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_004_000.nii.gz",
+            "label": "./labelsTr/CTA_004_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_005_000.nii.gz",
+            "label": "./labelsTr/CTA_005_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_006_000.nii.gz",
+            "label": "./labelsTr/CTA_006_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_007_000.nii.gz",
+            "label": "./labelsTr/CTA_007_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_008_000.nii.gz",
+            "label": "./labelsTr/CTA_008_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_009_000.nii.gz",
+            "label": "./labelsTr/CTA_009_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_010_000.nii.gz",
+            "label": "./labelsTr/CTA_010_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_011_000.nii.gz",
+            "label": "./labelsTr/CTA_011_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_012_000.nii.gz",
+            "label": "./labelsTr/CTA_012_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_013_000.nii.gz",
+            "label": "./labelsTr/CTA_013_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_015_000.nii.gz",
+            "label": "./labelsTr/CTA_015_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_016_000.nii.gz",
+            "label": "./labelsTr/CTA_016_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_017_000.nii.gz",
+            "label": "./labelsTr/CTA_017_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_018_000.nii.gz",
+            "label": "./labelsTr/CTA_018_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_019_000.nii.gz",
+            "label": "./labelsTr/CTA_019_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_020_000.nii.gz",
+            "label": "./labelsTr/CTA_020_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_021_000.nii.gz",
+            "label": "./labelsTr/CTA_021_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_022_000.nii.gz",
+            "label": "./labelsTr/CTA_022_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_023_000.nii.gz",
+            "label": "./labelsTr/CTA_023_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_024_000.nii.gz",
+            "label": "./labelsTr/CTA_024_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_025_000.nii.gz",
+            "label": "./labelsTr/CTA_025_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_026_000.nii.gz",
+            "label": "./labelsTr/CTA_026_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_027_000.nii.gz",
+            "label": "./labelsTr/CTA_027_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_028_000.nii.gz",
+            "label": "./labelsTr/CTA_028_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_029_000.nii.gz",
+            "label": "./labelsTr/CTA_029_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_030_000.nii.gz",
+            "label": "./labelsTr/CTA_030_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_031_000.nii.gz",
+            "label": "./labelsTr/CTA_031_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_032_000.nii.gz",
+            "label": "./labelsTr/CTA_032_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_033_000.nii.gz",
+            "label": "./labelsTr/CTA_033_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_034_000.nii.gz",
+            "label": "./labelsTr/CTA_034_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_035_000.nii.gz",
+            "label": "./labelsTr/CTA_035_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_036_000.nii.gz",
+            "label": "./labelsTr/CTA_036_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_038_000.nii.gz",
+            "label": "./labelsTr/CTA_038_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_039_000.nii.gz",
+            "label": "./labelsTr/CTA_039_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_040_000.nii.gz",
+            "label": "./labelsTr/CTA_040_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_041_000.nii.gz",
+            "label": "./labelsTr/CTA_041_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_042_000.nii.gz",
+            "label": "./labelsTr/CTA_042_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_044_000.nii.gz",
+            "label": "./labelsTr/CTA_044_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_045_000.nii.gz",
+            "label": "./labelsTr/CTA_045_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_046_000.nii.gz",
+            "label": "./labelsTr/CTA_046_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_047_000.nii.gz",
+            "label": "./labelsTr/CTA_047_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_048_000.nii.gz",
+            "label": "./labelsTr/CTA_048_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_049_000.nii.gz",
+            "label": "./labelsTr/CTA_049_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_050_000.nii.gz",
+            "label": "./labelsTr/CTA_050_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_051_000.nii.gz",
+            "label": "./labelsTr/CTA_051_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_052_000.nii.gz",
+            "label": "./labelsTr/CTA_052_000.nii.gz"
+        },
+        {
+            "image": "./imagesTr/CTA_053_000.nii.gz",
+            "label": "./labelsTr/CTA_053_000.nii.gz"
+        }
+    ]
+}

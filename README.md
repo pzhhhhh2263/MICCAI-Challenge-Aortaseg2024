@@ -1,1 +1,1 @@
-# MICCAI2024-Aortaseg
+# MICCAI-Challenge-Aortaseg2024
